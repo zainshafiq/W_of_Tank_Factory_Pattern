@@ -1,7 +1,6 @@
 # Mock_World_of_Tank_Factory_Pattern
 
-You have a position testing and developing code for the online game World of Tanks. Your recent work with the Factory Design Pattern has given you an idea on how to modify some development and testing code. Your job is to test the algorithm for receiving damage. The basic idea is the penetration value must exceed the armour value in order to cause dame. One algorithm is posted below but feel free to build your own. Given the code below, modify the code to make use of the Factory Design Pattern. This will allow your test code to test the damage algorithm on any type of tank that has been created (as long as the algorithm does not change). Ideally you should be able
-to test an unlimited number of tanks and your test code will not change as new tanks are created and need to be tested.
+Your job is to test the algorithm for receiving damage. The basic idea is the penetration value must exceed the armour value in order to cause dame. One algorithm is posted below but feel free to build your own. Given the code below, modify the code to make use of the Factory Design Pattern. This will allow your test code to test the damage algorithm on any type of tank that has been created (as long as the algorithm does not change). Ideally you should be able to test an unlimited number of tanks and your test code will not change as new tanks are created and need to be tested.
 
 /**
  * 
