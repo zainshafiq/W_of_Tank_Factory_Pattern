@@ -1,0 +1,1 @@
+# Mock_World_of_Tank_Factory_Pattern
