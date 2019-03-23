@@ -7,6 +7,8 @@ Your job is to test the algorithm for receiving damage. The basic idea is the pe
  * @Reference author : tdouglas U of R
  *
  */
+
+//Abstract
 public abstract class Tank {
 
 	private String name;
